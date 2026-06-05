@@ -1,0 +1,16 @@
+# Binaries
+*.bin
+*.elf
+*.map
+
+# Arduino CLI
+build/
+bin/
+
+# Temporary files
+*.tmp
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
