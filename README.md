@@ -1,5 +1,7 @@
 # Retia Nibble Zero - RNode Firmware & Tools
 
+![Nibble Zero Pinouts](images/rnode.jpeg)
+
 This repository contains the firmware, setup scripts, and automated flashing tools for the **Retia Nibble Zero** (ESP32-S3 based RNode).
 
 ## Quick Start (Flashing)
