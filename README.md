@@ -37,7 +37,8 @@ Use the included `test_link.sh` (requires 2 devices) to verify RF communication:
 ```
 
 ## Hardware Specifications
-![Nibble Zero Pinouts](images/pinouts.webp)
+
+<img src="images/pinouts.webp" width="50%" alt="Rnode">
 
 - **MCU**: ESP32-S3
 - **LoRa**: SX1262
